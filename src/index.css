@@ -1,0 +1,24 @@
+.compressor-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.compressor-card {
+  width: 400px;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.ant-upload-drag-icon {
+  color: #1890ff;
+}
+
+.ant-upload-text {
+  font-size: 16px;
+}
